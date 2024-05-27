@@ -8,3 +8,5 @@ console.log(sum);
 let average = sum / number.length;
 
 console.log(average);
+
+////
